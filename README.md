@@ -143,8 +143,5 @@ npm run tauri build
 - [ ] **Fase 7** — Historial y deshacer
 - [ ] **Fase 8** — Canvas de conocimiento (grafo nodos/aristas)
 
----
 
-## Licencia
 
-[MIT](LICENSE)
